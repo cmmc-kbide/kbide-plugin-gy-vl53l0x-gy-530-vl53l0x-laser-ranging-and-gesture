@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture",
+  "title": "gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture",
+  "keywords": "gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture, esp32, esp8266, arduino",
+  "description": "gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-vl53l0x-gy-530-vl53l0x-laser-ranging-and-gesture/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
